@@ -1,0 +1,20 @@
+execute pathogen#infect()
+syntax on
+filetype plugin indent on
+set background=dark
+let g:solarized_termcolors=256
+filetype plugin indent on
+set nu
+set ruler	"Show the cursor position all the time
+set mouse=a	"Enable mouse
+set hlsearch "Highlight the last used search pattern
+set title
+set nowrap	"Do not wrap long lines
+colorscheme molokai
+
+set tabstop=2
+set shiftwidth=2
+set expandtab
+
+set backspace=2
+set background=dark
